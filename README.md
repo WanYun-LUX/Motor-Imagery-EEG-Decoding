@@ -1,5 +1,3 @@
-# Motor-Imagery-EEG-Decoding
-
 # Motor Imagery EEG Decoding Using Machine Learning
 
 ## Overview
